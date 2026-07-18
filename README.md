@@ -41,3 +41,7 @@ Amazon-PPC-ACoS-Analyzer/
 ├── README.md
 ├── requirements.txt          # Python dependencies
 └── LICENSE
+
+## Workflow
+
+![Workflow](screenshots/workflow.png)
