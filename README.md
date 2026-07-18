@@ -47,4 +47,5 @@ Amazon-PPC-ACoS-Analyzer/
 ## GUI_screenshot
 
 ![GUI_screenshot](./screenshots/GUI_screenshot.png)
+
 <img src="./screenshots/GUI_screenshot.png" alt="GUI Screenshot" width="100%">
