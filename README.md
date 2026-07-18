@@ -42,17 +42,6 @@ Amazon-PPC-ACoS-Analyzer/
 ├── requirements.txt          # Python dependencies
 └── LICENSE
 
-<img width="1063" height="637" alt="image" src="https://github.com/user-attachments/assets/0ec50401-0a79-4f8b-a7f5-7032c1a118bd" />
-
-
-![GUI](https://raw.githubusercontent.com/vhin1987/Amazon-PPC-Performance-Analyzer/main/screenshots/GUI_screenshot.png)
-
-
-
 ## GUI_screenshot
 
-![GUI_screenshot](./screenshots/GUI_screenshot.png)
-
-<img src="./screenshots/GUI_screenshot.png" alt="GUI Screenshot" width="100%">
-
-![GUI](https://raw.githubusercontent.com/vhin1987/Amazon-PPC-Performance-Analyzer/main/screenshots/GUI_screenshot.png)
+![GUI_screenshot](screenshots/GUI_screenshot.png)
