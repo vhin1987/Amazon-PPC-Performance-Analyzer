@@ -31,7 +31,7 @@ Amazon-PPC-ACoS-Analyzer/
 │   └── Amazon_PPC_Dashboard.pbix  # Interactive Power BI report file
 │
 ├── screenshots/              # Images used in this README
-│   ├── workflow.png
+│   ├── GUI_screenshot.png
 │   ├── dashboard.png
 │   └── powerbi.png
 │
