@@ -50,7 +50,7 @@ Amazon-PPC-ACoS-Analyzer/
 
 ![Result](screenshots/Result.png)
 
-##Recommendation
+## Recommendation
 
 ![Recommendation](screenshots/Recommendation.png)
 
