@@ -43,4 +43,4 @@ Amazon-PPC-ACoS-Analyzer/
 └── LICENSE
 
 ## GUI_screenshot
-![GUI]screenshots/GUI_screenshot.png
+![GUI_screenshot](screenshots/GUI_screenshot.png)
