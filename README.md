@@ -42,6 +42,5 @@ Amazon-PPC-ACoS-Analyzer/
 ├── requirements.txt          # Python dependencies
 └── LICENSE
 
-## GUI
-
-![GUI](screenshots/GUI.png)
+## GUI_screenshot
+![GUI]screenshots/GUI_screenshot.png
