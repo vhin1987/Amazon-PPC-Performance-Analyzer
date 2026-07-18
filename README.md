@@ -50,6 +50,18 @@ Amazon-PPC-ACoS-Analyzer/
 
 ![Result](screenshots/Result.png)
 
+# 📊 KPI Calculations
+
+| KPI | Formula |
+|------|----------|
+| CTR | Clicks ÷ Impressions |
+| CPC | Spend ÷ Clicks |
+| CVR | Orders ÷ Clicks |
+| ACoS | Spend ÷ Sales |
+| ROAS | Sales ÷ Spend |
+| TACoS | Spend ÷ Total Sales |
+
+
 ## Recommendation
 
 ![Recommendation](screenshots/Recommendation.png)
