@@ -45,3 +45,5 @@ Amazon-PPC-ACoS-Analyzer/
 ## GUI_screenshot
 
 ![GUI_screenshot](screenshots/GUI_screenshot.png)
+
+
