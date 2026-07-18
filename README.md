@@ -4,7 +4,7 @@ An end-to-end data engineering and analytics pipeline designed to ingest raw Ama
 
 ---
 
-## 🏗️ Project Architecture & Directory Structure
+## 🏗️ Directory Structure
 
 Here is how the project files are organized. The workflow moves from raw data ingestion to SQL storage, Python-based KPI calculations, and finally to visual reporting.
 
