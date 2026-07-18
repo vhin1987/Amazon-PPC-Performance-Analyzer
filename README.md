@@ -4,6 +4,12 @@ An end-to-end data analytics project that automates the analysis of Amazon Spons
 
 ---
 
+This project is designed to answer three critical Amazon PPC business questions that help sellers optimize advertising performance and maximize return on ad spend.
+
+## 1️⃣ Which keywords are profitable and should be scaled?
+## 2️⃣ Which keywords are wasting advertising spend and should be optimized or negated?
+## 3️⃣ How can campaign performance be improved?
+---
 # 🚀 Project Overview
 
 The Amazon PPC ACoS Analyzer helps Amazon sellers and PPC specialists quickly identify:
@@ -16,13 +22,6 @@ The Amazon PPC ACoS Analyzer helps Amazon sellers and PPC specialists quickly id
 - Campaign performance trends
 
 Instead of manually analyzing thousands of search terms, this project automates the complete workflow.
-
-This project is designed to answer three critical Amazon PPC business questions that help sellers optimize advertising performance and maximize return on ad spend.
-
-## 1️⃣ Which keywords are profitable and should be scaled?
-## 2️⃣ Which keywords are wasting advertising spend and should be optimized or negated?
-## 3️⃣ How can campaign performance be improved?
----
 
 ## 🏗️ Directory Structure
 
