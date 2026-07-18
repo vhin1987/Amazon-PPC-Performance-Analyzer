@@ -32,7 +32,7 @@ Amazon-PPC-ACoS-Analyzer/
 │
 ├── screenshots/              # Images used in this README
 │   ├── GUI_screenshot.png
-│   ├── dashboard.png
+│   ├── Result.png
 │   └── powerbi.png
 │
 ├── output/                   # Final business-ready Excel reports
@@ -46,4 +46,7 @@ Amazon-PPC-ACoS-Analyzer/
 
 ![GUI_screenshot](screenshots/GUI_screenshot.png)
 
+## Result
+
+![Result](screenshots/Result.png)
 
