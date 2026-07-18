@@ -42,6 +42,43 @@ Amazon-PPC-ACoS-Analyzer/
 ├── requirements.txt          # Python dependencies
 └── LICENSE
 ```
+# 🏗️ Project Architecture
+
+```
+                  Amazon Search Term Report (.xlsx)
+                               │
+                               ▼
+                     Excel Data Validation
+              (Missing Values • Duplicates • Formatting)
+                               │
+                               ▼
+                    Python Data Cleaning (Pandas)
+                               │
+                               ▼
+                      KPI Calculations
+        CTR • CPC • CVR • ACoS • ROAS • TACoS
+                               │
+                               ▼
+                 Search Term Classification
+       Winner • Watch • Waste • Negate Keywords
+                               │
+                               ▼
+                  Export Clean Dataset (.xlsx)
+                               │
+                               ▼
+                    PostgreSQL Database
+                               │
+                               ▼
+                      SQL Analysis Queries
+                               │
+                               ▼
+                    Power BI Dashboard
+                               │
+                               ▼
+                   Business Recommendations
+```
+
+---
 ## GUI_screenshot
 
 ![GUI_screenshot](screenshots/GUI_screenshot.png)
