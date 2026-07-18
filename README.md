@@ -54,3 +54,14 @@ Amazon-PPC-ACoS-Analyzer/
 
 ![Recommendation](screenshots/Recommendation.png)
 
+### 4. Search Term Classification
+
+Business Rules
+
+| Condition | Classification |
+|------------|---------------|
+| ACoS ≤ 30% | Winner |
+| 30% < ACoS ≤ 40% | Watch |
+| ACoS > 40% | Waste |
+| Spend > $10 & Sales = 0 | Negate |
+| Clicks > 20 & Orders = 0 | Negate |
