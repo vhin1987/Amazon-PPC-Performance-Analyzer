@@ -49,3 +49,5 @@ Amazon-PPC-ACoS-Analyzer/
 ![GUI_screenshot](./screenshots/GUI_screenshot.png)
 
 <img src="./screenshots/GUI_screenshot.png" alt="GUI Screenshot" width="100%">
+
+![GUI](https://raw.githubusercontent.com/vhin1987/Amazon-PPC-Performance-Analyzer/main/screenshots/GUI_screenshot.png)
