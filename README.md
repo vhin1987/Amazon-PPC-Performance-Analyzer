@@ -41,6 +41,7 @@ Amazon-PPC-ACoS-Analyzer/
 ├── README.md
 ├── requirements.txt          # Python dependencies
 └── LICENSE
+<img width="1063" height="637" alt="image" src="https://github.com/user-attachments/assets/0ec50401-0a79-4f8b-a7f5-7032c1a118bd" />
 
 
 ## GUI_screenshot
