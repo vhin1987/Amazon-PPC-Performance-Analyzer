@@ -144,17 +144,17 @@ Based on the analysis, the project recommends:
 - Increase campaign budget
 - Move search terms into Exact Match campaigns
 
-## Optimize
+## Optimize-Watch
 
 - Reduce bids on high ACoS keywords
 - Test new match types
 - Improve product listings
 
-## Reduce Waste
+## Waste-Negate
 
 - Add Negative Keywords
 - Pause consistently poor-performing keywords
-- Reallocate advertising budget
+
 
 
 
