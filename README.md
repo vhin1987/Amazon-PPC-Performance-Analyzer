@@ -122,14 +122,39 @@ Amazon-PPC-ACoS-Analyzer/
 
 ![Recommendation](screenshots/Recommendation.png)
 
-### 4. Search Term Classification
+# 📈 Recommendations
+### Search Term Classification
 
 Business Rules
 
 | Condition | Classification |
 |------------|---------------|
-| ACoS ≤ 30% | Winner |
-| 30% < ACoS ≤ 40% | Watch |
+| ACoS ≤ 30% | Scale Winners |
+| 30% < ACoS ≤ 40% | Optimize-Watch |
 | ACoS > 40% | Waste |
 | Spend > $10 & Sales = 0 | Negate |
 | Clicks > 20 & Orders = 0 | Negate |
+
+
+Based on the analysis, the project recommends:
+
+## Scale Winners
+
+- Increase bids
+- Increase campaign budget
+- Move search terms into Exact Match campaigns
+
+## Optimize
+
+- Reduce bids on high ACoS keywords
+- Test new match types
+- Improve product listings
+
+## Reduce Waste
+
+- Add Negative Keywords
+- Pause consistently poor-performing keywords
+- Reallocate advertising budget
+
+
+
